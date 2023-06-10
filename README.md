@@ -4,6 +4,8 @@ Bitcoin price in your menu bar!
 
 Price updates every 10 seconds with the BTC/USDT pair using the Binance API.
 
+<img src="https://github.com/loonglade/Bidget/blob/main/assets/screenshot1.png?raw=true">
+
 # Installation:
     git clone https://github.com/loonglade/Bidget
     source venv/bin/activate
