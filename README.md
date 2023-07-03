@@ -13,7 +13,7 @@ Price updates every 10 seconds with the BTC/USDT pair using the Binance API.
     git clone https://github.com/loonglade/Bidget
     python3 -m venv venv
     source venv/bin/activate
-    pip install chardet requests rumps py2app
+    pip install -r requirements.txt
     python setup.py py2app
 
 After installation, just run 'btc.app' inside the 'dist' folder.
