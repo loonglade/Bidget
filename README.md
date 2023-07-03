@@ -18,6 +18,9 @@ Price updates every 10 seconds with the BTC/USDT pair using the Binance API.
     source venv/bin/activate
     pip install chardet requests rumps py2app
     python setup.py py2app
+
+After installation, just run 'btc.app' inside the 'dist' folder.
+Include it in your login items (system settings) if you wish to run it automatically when you start your computer.
     
 #### <i>Troubleshooting:
 ###### Q: I get an "API Request Failed" error.
