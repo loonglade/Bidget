@@ -7,10 +7,7 @@ Price updates every 10 seconds with the BTC/USDT pair using the Binance API.
 <img src="https://github.com/loonglade/Bidget/blob/main/assets/screenshot1.png?raw=true">
 
 # Dependencies:
-    chardet
-    requests
-    rumps
-    py2app
+    chardet requests rumps py2app
 
 # Installation:
     git clone https://github.com/loonglade/Bidget
